@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj": {}
+    "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj": {
+    "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj",
+        "projectUniqueName": "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj",
         "projectName": "FirstTestApi",
-        "projectPath": "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj",
+        "projectPath": "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi\\FirstTestApi.csproj",
         "packagesPath": "C:\\Users\\AnowerUllah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\obj\\",
+        "outputPath": "C:\\Users\\AnowerUllah\\Documents\\FirstTestApi\\FirstTestApi\\FirstTestApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
